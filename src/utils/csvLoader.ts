@@ -148,8 +148,8 @@ function transformMonthlyData(row: Record<string, string>): UnitTestData[] {
     const hasCoverage = data.coverage && data.coverage.trim() !== '';
     const hasCount = data.count && data.count.trim() !== '';
     
-    const coverage = hasCoverage ? parseFloat(data.coverage) || 0 : 0;
-    const count = hasCount ? parseInt(data.count) || 0 : 0;
+    const coverage = hasCoverage ? parseFloat(data.coverage!) || 0 : 0;
+    const count = hasCount ? parseInt(data.count!) || 0 : 0;
 
     // Include ALL services, even with 0 coverage and 0 tests
     records.push({

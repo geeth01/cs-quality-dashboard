@@ -21,8 +21,6 @@ import type {
 import { generateMockData } from './mockData';
 import { loadUnitTestCSV, loadE2ETestCSV, hasCSVFiles } from '../utils/csvLoader';
 
-// TODO: Replace with your actual API endpoint
-const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
 const USE_MOCK_DATA = import.meta.env.VITE_USE_MOCK_DATA !== 'false'; // Default to true
 
 // Cache for CSV data

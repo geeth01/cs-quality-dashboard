@@ -12,7 +12,6 @@ export interface MicroserviceMapping {
   namespace: string;
 }
 
-let cachedMappings: MicroserviceMapping[] | null = null;
 
 /**
  * Parse a CSV line properly handling quotes and multiple columns
@@ -105,7 +104,6 @@ export async function loadMicroserviceMappings(): Promise<MicroserviceMapping[]>
       });
     }
 
-    cachedMappings = mappings;
     console.log(`✅ Loaded ${mappings.length} microservice mappings from CSV`);
     
     // Log unique counts for verification
@@ -126,7 +124,7 @@ export async function loadMicroserviceMappings(): Promise<MicroserviceMapping[]>
  * Force reload of mappings (clears cache)
  */
 export function reloadMappings(): void {
-  cachedMappings = null;
+  // no-op: mappings are always reloaded fresh on next call
 }
 
 /**
