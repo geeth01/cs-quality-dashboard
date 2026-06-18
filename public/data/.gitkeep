@@ -1,0 +1,6 @@
+# Place your CSV files here:
+# - cs_unit_test.csv
+# - cs_e2e_test.csv
+
+# This folder is served publicly and files will be loaded by the dashboard
+
