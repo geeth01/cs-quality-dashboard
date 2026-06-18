@@ -31,6 +31,7 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
           SHEET_ID: ${{ secrets.SHEET_ID }}
+          E2E_SHEET_ID: ${{ secrets.E2E_SHEET_ID }}
         run: python scripts/fetch_from_sheets.py
 
       - name: Commit and push if data changed
