@@ -1,229 +1,229 @@
-PRODUCT,SUBPRODUCT,NAMESPACE,SERVICE_NAME,COVERAGE_%_Feb_2025,TEST_COUNT_Feb_2025,COVERAGE_%_Mar_2025,TEST_COUNT_Mar_2025,COVERAGE_%_Apr_2025,TEST_COUNT_Apr_2025,COVERAGE_%_May_2025,TEST_COUNT_May_2025,COVERAGE_%_Jun_2025,TEST_COUNT_Jun_2025,COVERAGE_%_Jul_2025,TEST_COUNT_Jul_2025,COVERAGE_%_Aug_2025,TEST_COUNT_Aug_2025,COVERAGE_%_Sep_2025,TEST_COUNT_Sep_2025,COVERAGE_%_Oct_2025,TEST_COUNT_Oct_2025,COVERAGE_%_Nov_2025,TEST_COUNT_Nov_2025,COVERAGE_%_Dec_2025,COVERAGE_%_Jan_2026,COVERAGE_%_Feb_2026,COVERAGE_%_Mar_2026,COVERAGE_%_Apr_2026,COVERAGE_%_May_2026,COVERAGE_%_Jun_2026,TEST_COUNT_Dec_2025,TEST_COUNT_Jan_2026,TEST_COUNT_Feb_2026,TEST_COUNT_Mar_2026,TEST_COUNT_Apr_2026,TEST_COUNT_May_2026,TEST_COUNT_Jun_2026
-Brand Kit,Brand Kit,generator,ai-frameworks-ns,31,2,31,2,31,2,31,2,31,2,31,2,31,2,31,2,31,2,31,2,31,31,31,31,31,31,31,2,2,2,2,2,2,2
-Brand Kit,Brand Kit,knowledge-vault,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brand Kit,Brand Kit,retriever,ai-frameworks-ns,,24,,24,,24,,24,,24,,24,,24,,24,,24,,24,,,,,,,,24,24,24,24,24,24,24
-Brand Kit,Brand Kit,vectorizer,ai-frameworks-ns,,1,,1,,1,,1,,1,,1,,1,,1,,1,,1,,,,,,,,1,1,1,1,1,1,1
-AI Platform,AI Config Store,ai-frameworks-ai-config-store-grpc,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AI Platform,AI Config Store,ai-frameworks-ai-config-store-service,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AI Platform,AI Platform,ai-frameworks-ai-platform-service,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AI Platform,AI Platform,ai-frameworks-the-vault-service,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AI Platform,AI Platform,ai-platform-controlplane-service,ai-platform-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Data Engineering,analytics-consumer,analytics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Data Engineering,data-analytics-api,analytics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Agent OS,Polaris,ask-ai-backend-service,ask-ai-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Org Admin,auth-background-jobs-service,auth-ns,92.82,523,92.82,523,92.82,523,92.82,523,92.82,523,92.82,523,92.82,523,92.82,523,92.82,523,92.82,523,92.82,92.82,92.82,92.82,92.82,92.82,92.82,523,523,523,523,523,523,523
-Platform,Org Admin,auth-policy-service,auth-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Org Admin,auth-service,auth-ns,92.21,2732,92.21,2732,92.21,2732,92.21,2732,92.21,2732,92.21,2732,92.21,2732,92.21,2732,92.21,2732,92.21,2732,92.21,92.21,92.21,92.21,92.21,92.21,92.21,2732,2732,2732,2732,2732,2732,2732
-Platform,Org Admin,connected-apps-service,auth-ns,93.2,120,93.2,120,93.2,120,93.2,120,93.2,120,93.2,120,93.2,120,93.2,120,93.2,120,93.2,120,93.2,93.2,93.2,93.2,93.2,93.2,93.2,120,120,120,120,120,120,120
-Platform,Org Admin,connection-validation-service,auth-ns,89.3,380,89.3,380,89.3,380,89.3,380,89.3,380,89.3,380,89.3,380,89.3,380,89.3,380,89.3,380,89.3,89.3,89.3,89.3,89.3,89.3,89.3,380,380,380,380,380,380,380
-Automate,Automate,automations-api,automations-ns,,1226,,1226,,1226,,1226,,1226,,1226,,1226,,1226,,1226,,1226,,,,,,,,1226,1226,1226,1226,1226,1226,1226
-Automate,Automate,automations-engine,automations-ns,,192,,192,,192,,192,,192,,192,,192,,192,,192,,192,,,,,,,,192,192,192,192,192,192,192
-AI Platform,AI Assistant,bg-remover-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AI Platform,AI Assistant,brand-ai-assistant-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brand Kit,Brand Kit,brand-generative-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brand Kit,Brand Kit,brand-ingestion-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brand Kit,Brand Kit,brand-kit-grpc,brand-ai-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brand Kit,Brand Kit,brand-kits,brand-ai-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-shadow-warmer,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-shadow-warmer-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-shadow-warmer-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-shadow-warmer-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-shadow-warmer-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-shadow-warmer-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,assets-delivery-api-shadow-warmer-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-dj-v3-2-single,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-dj-v3-2-single-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-dj-v3-2-single-airbnb01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-dj-v3-2-single-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-dj-v3-2-single-lego01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-dj-v3-2-single-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-dj-v3-2-single-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v3-2-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v3-2-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v3-2-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v3-2-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v3-2-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v3-2-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cdn-purge-aggregator-v4,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cdn-purge-batcher-v4,cda-ns,,73,,73,,73,,73,,73,,73,,73,,73,,73,,73,,,,,,,,73,73,73,73,73,73,73
-CMS,Content Delivery,cdn-purge-batcher-v4-cf,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cdn-purge-dispatcher-v4,cda-ns,,182,,182,,182,,182,,182,,182,,182,,182,,182,,182,,,,,,,,182,182,182,182,182,182,182
-CMS,Content Delivery,cdn-purge-dispatcher-v4-cf,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-published-contents,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api,cda-ns,85.82,1240,85.82,1240,85.82,1240,85.82,1240,85.82,1240,85.82,1240,85.82,1240,85.82,1240,85.82,1240,85.82,1240,85.82,85.82,85.82,85.82,85.82,85.82,85.82,1240,1240,1240,1240,1240,1240,1240
-CMS,Content Delivery,content-delivery-api-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-shadow-warmer,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-shadow-warmer-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-shadow-warmer-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-shadow-warmer-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-shadow-warmer-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-shadow-warmer-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-api-shadow-warmer-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v2,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v2-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v2-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v2-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v2-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v2-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-v2-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-shadow-warmer,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-shadow-warmer-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-shadow-warmer-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-shadow-warmer-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-shadow-warmer-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-shadow-warmer-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,graphql-delivery-api-shadow-warmer-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,jobs-distributor-dj,cda-ns,95.67,253,95.67,253,95.67,253,95.67,253,95.67,253,95.67,253,95.67,253,95.67,253,95.67,253,95.67,253,95.67,95.67,95.67,95.67,95.67,95.67,95.67,253,253,253,253,253,253,253
-CMS,Content Delivery,content-delivery-jobs-distributor-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-long-running-job,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-long-running-job-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-long-running-job-airbnb01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-long-running-job-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-long-running-job-lego01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-long-running-job-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-long-running-job-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cdn-purge-dj,cda-ns,89.96,44,89.96,44,89.96,44,89.96,44,89.96,44,89.96,44,89.96,44,89.96,44,89.96,44,89.96,44,89.96,89.96,89.96,89.96,89.96,89.96,89.96,44,44,44,44,44,44,44
-CMS,Content Delivery,cdn-purge-dj-v3-2,cda-ns,,189,,189,,189,,189,,189,,189,,189,,189,,189,,189,,,,,,,,189,189,189,189,189,189,189
-CMS,Content Delivery,content-delivery-dj,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-lego,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,content-delivery-dj-start01,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,publish-api-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Delivery,cda-jobs-scheduler-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-api,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-api-lego,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-cdn,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-cdn-lego,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Venus,cma-venus,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-api-airbnb,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-uploads,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Assets,cma-assets-service,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Venus,cma-venus-bradsdeals,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,contentstack-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,content-branching-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Venus,cma-venus-lego,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-api-lightrun,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-api-mtr,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-api-retailer,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,release,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,publish,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,bulk-action,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cda-action,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,fieldlocalisation,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,globalfields,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,languages-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-cdn-shadow-warmer,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-branches,cma-ns,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,58.77,58.77,58.77,58.77,58.77,58.77,149,149,149,149,149,149,149
-CMS,Content Management,cma-branches-api,cma-ns,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,58.77,58.77,58.77,58.77,58.77,58.77,149,149,149,149,149,149,149
-CMS,Content Management,cma-branches-dj,cma-ns,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,149,58.77,58.77,58.77,58.77,58.77,58.77,58.77,149,149,149,149,149,149,149
-CMS,Content Management,cma-entries-dj,cma-ns,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,84.06,84.06,84.06,84.06,84.06,84.06,2039,2039,2039,2039,2039,2039,2039
-CMS,Content Management,cma-entries-service,cma-ns,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,84.06,84.06,84.06,84.06,84.06,84.06,2039,2039,2039,2039,2039,2039,2039
-CMS,Content Management,cma-entries-api,cma-ns,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,84.06,84.06,84.06,84.06,84.06,84.06,2039,2039,2039,2039,2039,2039,2039
-CMS,Content Management,cma-validation-service,cma-ns,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,2039,84.06,84.06,84.06,84.06,84.06,84.06,84.06,2039,2039,2039,2039,2039,2039,2039
-CMS,Content Management,jobs-distributor,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-publish-objects-consumer,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-publish-objects-consumer-v2,cma-ns,92.37,61,92.37,61,92.37,61,92.37,61,92.37,61,92.37,61,92.37,61,92.37,61,92.37,61,92.37,61,92.37,92.37,92.37,92.37,92.37,92.37,92.37,61,61,61,61,61,61,61
-CMS,Content Management,cma-commenting,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-commenting-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-environments-service,cma-ns,92.28,52,92.28,52,92.28,52,92.28,52,92.28,52,92.28,52,92.28,52,92.28,52,92.28,52,92.28,52,92.28,92.28,92.28,92.28,92.28,92.28,92.28,52,52,52,52,52,52,52
-CMS,Content Management,cma-locales-service,cma-ns,97.33,64,97.33,64,97.33,64,97.33,64,97.33,64,97.33,64,97.33,64,97.33,64,97.33,64,97.33,64,97.33,97.33,97.33,97.33,97.33,97.33,97.33,64,64,64,64,64,64,64
-CMS,Content Management,cma-metadata-service,cma-ns,96.77,48,96.77,48,96.77,48,96.77,48,96.77,48,96.77,48,96.77,48,96.77,48,96.77,48,96.77,48,96.77,96.77,96.77,96.77,96.77,96.77,96.77,48,48,48,48,48,48,48
-CMS,Content Management,cma-taxonomy,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-taxonomy-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-taxonomy-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-variants,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-variants-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-variants-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-workflow-publishingrules-api,cma-ns,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,83.1,83.1,83.1,83.1,83.1,83.1,446,446,446,446,446,446,446
-CMS,Content Management,cma-workflow-publishingrules,cma-ns,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,446,83.1,83.1,83.1,83.1,83.1,83.1,83.1,446,446,446,446,446,446,446
-CMS,Content Management,cma-release-api,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-release-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-job-distributor,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,job-status-api,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-bulk-action-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,bulk-actions-api,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,bulk-actions-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-elastic-sync,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-mailservice,cma-ns,92.81,23,92.81,23,92.81,23,92.81,23,92.81,23,92.81,23,92.81,23,92.81,23,92.81,23,92.81,23,92.81,92.81,92.81,92.81,92.81,92.81,92.81,23,23,23,23,23,23,23
-CMS,Content Management,cma-global-fields,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-global-fields-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-global-fields-shadow,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-CMS,Content Management,cma-global-fields-shadow-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Launch,Launch,contentfly-logs-background-exporter-service,contentfly,42.8,71,42.8,71,42.8,71,42.8,71,42.8,71,42.8,71,42.8,71,42.8,71,42.8,71,42.8,71,42.8,42.8,42.8,42.8,42.8,42.8,42.8,71,71,71,71,71,71,71
-Launch,Launch,contentfly-logs-background-jobs-service,contentfly,,48,,48,,48,,48,,48,,48,,48,,48,,48,,48,,,,,,,,48,48,48,48,48,48,48
-Launch,Launch,contentfly-logs-service,contentfly,,213,,213,,213,,213,,213,,213,,213,,213,,213,,213,,,,,,,,213,213,213,213,213,213,213
-Launch,Launch,contentfly-management-background-jobs-service,contentfly,,676,,676,,676,,676,,676,,676,,676,,676,,676,,676,,,,,,,,676,676,676,676,676,676,676
-Launch,Launch,contentfly-management-service,contentfly,,1545,,1545,,1545,,1545,,1545,,1545,,1545,,1545,,1545,,1545,,,,,,,,1545,1545,1545,1545,1545,1545,1545
-Launch,Launch,contentfly-nginx-service,contentfly,,110,,110,,110,,110,,110,,110,,110,,110,,110,,110,,,,,,,,110,110,110,110,110,110,110
-Launch,Launch,contentfly-telemetry-service,contentfly,36.8,91,36.8,91,36.8,91,36.8,91,36.8,91,36.8,91,36.8,91,36.8,91,36.8,91,36.8,91,36.8,36.8,36.8,36.8,36.8,36.8,36.8,91,91,91,91,91,91,91
-Platform,Growth,1-click-trial,contentstack,,232,,232,,232,,232,,232,,232,,232,,232,,232,,232,,,,,,,,232,232,232,232,232,232,232
-CMS,Content Delivery,graphql,contentstack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Marketplace,Developer Hub,developerhub-api,developerhub-ns,69.18,1168,69.18,1168,69.18,1168,69.18,1168,69.18,1168,69.18,1168,69.18,1168,69.18,1168,69.18,1168,69.18,1168,69.18,69.18,69.18,69.18,69.18,69.18,69.18,1168,1168,1168,1168,1168,1168,1168
-Marketplace,Developer Hub,developerhub-bg-worker,developerhub-ns,69.17,1168,69.17,1168,69.17,1168,69.17,1168,69.17,1168,69.17,1168,69.17,1168,69.17,1168,69.17,1168,69.17,1168,69.17,69.17,69.17,69.17,69.17,69.17,69.17,1168,1168,1168,1168,1168,1168,1168
-Marketplace,Marketplace,marketplace-proxy-service,developerhub-ns,63.2,317,63.2,317,63.2,317,63.2,317,63.2,317,63.2,317,63.2,317,63.2,317,63.2,317,63.2,317,63.2,63.2,63.2,63.2,63.2,63.2,63.2,317,317,317,317,317,317,317
-Marketplace,Marketplace,extensions-api,extensions-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Growth,compass-starter,growth-ns,,419,,419,,419,,419,,419,,419,,419,,419,,419,,419,,,,,,,,419,419,419,419,419,419,419
-Creative Experience,Visual Preview,graphql-preview-api,livepreview-ns,,573,,573,,573,,573,,573,,573,,573,,573,,573,,573,,,,,,,,573,573,573,573,573,573,573
-Creative Experience,Visual Preview,rest-preview-api,livepreview-ns,,1057,,1057,,1057,,1057,,1057,,1057,,1057,,1057,,1057,,1057,,,,,,,,1057,1057,1057,1057,1057,1057,1057
-Platform,Data Engineering,logs-service,logs-ns,55.3,86,55.3,86,55.3,86,55.3,86,55.3,86,55.3,86,55.3,86,55.3,86,55.3,86,55.3,86,55.3,55.3,55.3,55.3,55.3,55.3,55.3,86,86,86,86,86,86,86
-Platform,Data Engineering,logs-consumer,logs-ns,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,82.8,82.8,82.8,82.8,82.8,82.8,60,60,60,60,60,60,60
-Platform,Data Engineering,prod-logs-consumer-cda,logs-ns,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,82.8,82.8,82.8,82.8,82.8,82.8,60,60,60,60,60,60,60
-Platform,Data Engineering,prod-logs-consumer-webhook,logs-ns,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,60,82.8,82.8,82.8,82.8,82.8,82.8,82.8,60,60,60,60,60,60,60
-Platform,Data Engineering,notification-service-api,notification-service-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Data Engineering,notification-service-api-grpc,notification-service-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Org Admin,org-admin-api,org-admin-ns,,277,,277,,277,,277,,277,,277,,277,,277,,277,,277,,,,,,,,277,277,277,277,277,277,277
-Data & Insights,Personalize,personalization-background-jobs-service,personalization-ns,95.05,1439,95.05,1439,95.05,1439,95.05,1439,95.05,1439,95.05,1439,95.05,1439,95.05,1439,95.05,1439,95.05,1439,95.05,95.05,95.05,95.05,95.05,95.05,95.05,1439,1439,1439,1439,1439,1439,1439
-Data & Insights,Personalize,personalization-event-ingestion-service,personalization-ns,96,35,96,35,96,35,96,35,96,35,96,35,96,35,96,35,96,35,96,35,96,96,96,96,96,96,96,35,35,35,35,35,35,35
-Data & Insights,Personalize,personalization-insights-service,personalization-ns,74,23,74,23,74,23,74,23,74,23,74,23,74,23,74,23,74,23,74,23,74,74,74,74,74,74,74,23,23,23,23,23,23,23
-Data & Insights,Personalize,personalization-service,personalization-ns,95.04,1436,95.04,1436,95.04,1436,95.04,1436,95.04,1436,95.04,1436,95.04,1436,95.04,1436,95.04,1436,95.04,1436,95.04,95.04,95.04,95.04,95.04,95.04,95.04,1436,1436,1436,1436,1436,1436,1436
-Data & Insights,Personalize,personalize-edge-backend-service-api,personalization-ns,,90,,90,,90,,90,,90,,90,,90,,90,,90,,90,,,,,,,,90,90,90,90,90,90,90
-Data & Insights,Personalize,personalize-edge-backend-service-consumer,personalization-ns,,90,,90,,90,,90,,90,,90,,90,,90,,90,,90,,,,,,,,90,90,90,90,90,90,90
-CMS,Reignite Search,cma-search-export-api,search-ns,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,95.8,95.8,95.8,95.8,95.8,95.8,449,449,449,449,449,449,449
-CMS,Reignite Search,cma-search-bulk-export-job,search-ns,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,95.8,95.8,95.8,95.8,95.8,95.8,449,449,449,449,449,449,449
-CMS,Reignite Search,cma-search-export-merge-dj,search-ns,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,95.8,95.8,95.8,95.8,95.8,95.8,449,449,449,449,449,449,449
-CMS,Reignite Search,cma-search-export-orchestrator,search-ns,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,449,95.8,95.8,95.8,95.8,95.8,95.8,95.8,449,449,449,449,449,449,449
-CMS,Reignite Search,cma-search-grpc,search-ns,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,94.93,94.93,94.93,94.93,94.93,94.93,1681,1681,1681,1681,1681,1681,1681
-CMS,Reignite Search,cma-search-service,search-ns,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,94.93,94.93,94.93,94.93,94.93,94.93,1681,1681,1681,1681,1681,1681,1681
-CMS,Reignite Search,cma-search-sync-delayed,search-ns,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,94.93,94.93,94.93,94.93,94.93,94.93,1681,1681,1681,1681,1681,1681,1681
-CMS,Reignite Search,cma-search-sync-job,search-ns,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,94.93,94.93,94.93,94.93,94.93,94.93,1681,1681,1681,1681,1681,1681,1681
-CMS,Reignite Search,elastic-search-task-status-checker,search-ns,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,1681,94.93,94.93,94.93,94.93,94.93,94.93,94.93,1681,1681,1681,1681,1681,1681,1681
-AI Platform,AI Assistant,ocr-and-palette-service,smart-asset-management-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-AI Platform,AI Assistant,photobooth-service,smart-asset-management-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Platform,Superadmin,superadmin-rewrite,superadmin-rewrite,91.15,1626,91.15,1626,91.15,1626,91.15,1626,91.15,1626,91.15,1626,91.15,1626,91.15,1626,91.15,1626,91.15,1626,91.15,91.15,91.15,91.15,91.15,91.15,91.15,1626,1626,1626,1626,1626,1626,1626
-CMS,Reignite Search,view-management-service,view-ns,91.57,324,91.57,324,91.57,324,91.57,324,91.57,324,91.57,324,91.57,324,91.57,324,91.57,324,91.57,324,91.57,91.57,91.57,91.57,91.57,91.57,91.57,324,324,324,324,324,324,324
-Platform,Data Engineering,webhook-dj-cda-trigger,webhook-ns,92.06,150,92.06,150,92.06,150,92.06,150,92.06,150,92.06,150,92.06,150,92.06,150,92.06,150,92.06,150,92.06,92.06,92.06,92.06,92.06,92.06,92.06,150,150,150,150,150,150,150
-Platform,Data Engineering,webhook-notifier,webhook-ns,93.13,29,93.13,29,93.13,29,93.13,29,93.13,29,93.13,29,93.13,29,93.13,29,93.13,29,93.13,29,93.13,93.13,93.13,93.13,93.13,93.13,93.13,29,29,29,29,29,29,29
-Platform,Data Engineering,webhook-executor,webhook-ns,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,91.84,91.84,91.84,91.84,91.84,91.84,143,143,143,143,143,143,143
-Platform,Data Engineering,webhook-retry,webhook-ns,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,91.84,91.84,91.84,91.84,91.84,91.84,143,143,143,143,143,143,143
-Platform,Data Engineering,webhook-trigger,webhook-ns,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,143,91.84,91.84,91.84,91.84,91.84,91.84,91.84,143,143,143,143,143,143,143
-Platform,Data Engineering,webhook-api-rewrite,webhook-ns,94.8,244,94.8,244,94.8,244,94.8,244,94.8,244,94.8,244,94.8,244,94.8,244,94.8,244,94.8,244,94.8,94.8,94.8,94.8,94.8,94.8,94.8,244,244,244,244,244,244,244
-Marketplace,Developer Hub,central-developerhub-service,developerhub-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DAM,Asset Managements 2.0,dam-core,dam-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DAM,Asset Managements 2.0,dam-dj,dam-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DAM,Asset Managements 2.0,dam-grpc,dam-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DAM,Asset Managements 2.0,assets-delivery-api-dam,cda-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DAM,Asset Managements 2.0,cma-assets-api,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-DAM,Asset Managements 2.0,cma-assets-dj,cma-ns,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PRODUCT,SUBPRODUCT,NAMESPACE,SERVICE_NAME,COVERAGE_%_Feb_2025,TEST_COUNT_Feb_2025,COVERAGE_%_Mar_2025,TEST_COUNT_Mar_2025,COVERAGE_%_Apr_2025,TEST_COUNT_Apr_2025,COVERAGE_%_May_2025,TEST_COUNT_May_2025,COVERAGE_%_Jun_2025,TEST_COUNT_Jun_2025,COVERAGE_%_Jul_2025,TEST_COUNT_Jul_2025,COVERAGE_%_Aug_2025,TEST_COUNT_Aug_2025,COVERAGE_%_Sep_2025,TEST_COUNT_Sep_2025,COVERAGE_%_Oct_2025,TEST_COUNT_Oct_2025,COVERAGE_%_Nov_2025,TEST_COUNT_Nov_2025
+Brand Kit,Brand Kit,generator,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,31,2
+Brand Kit,Brand Kit,knowledge-vault,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,
+Brand Kit,Brand Kit,retriever,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,24
+Brand Kit,Brand Kit,vectorizer,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,1
+AI Platform,AI Config Store,ai-frameworks-ai-config-store-grpc,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,
+AI Platform,AI Config Store,ai-frameworks-ai-config-store-service,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,
+AI Platform,AI Platform,ai-frameworks-ai-platform-service,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,
+AI Platform,AI Platform,ai-frameworks-the-vault-service,ai-frameworks-ns,,,,,,,,,,,,,,,,,,,,
+AI Platform,AI Platform,ai-platform-controlplane-service,ai-platform-ns,,,,,,,,,,,,,,,,,,,,
+Platform,Data Engineering,analytics-consumer,analytics,,,,,,,,,,,,,,,,,,,,
+Platform,Data Engineering,data-analytics-api,analytics,,,,,,,,,,,,,,,,,,,,
+Agent OS,Polaris,ask-ai-backend-service,ask-ai-ns,,,,,,,,,,,,,,,,,,,,
+Platform,Org Admin,auth-background-jobs-service,auth-ns,,,,,,,,,,,,,,,,,,,92.82,523
+Platform,Org Admin,auth-policy-service,auth-ns,,,,,,,,,,,,,,,,,,,,
+Platform,Org Admin,auth-service,auth-ns,,,,,,,,,,,,,,,,,,,92.21,2732
+Platform,Org Admin,connected-apps-service,auth-ns,,,,,,,,,,,,,,,,,,,93.2,120
+Platform,Org Admin,connection-validation-service,auth-ns,,,,,,,,,,,,,,,,,,,89.3,380
+Automate,Automate,automations-api,automations-ns,,,,,,,,,,,,,,,,,,,,1226
+Automate,Automate,automations-engine,automations-ns,,,,,,,,,,,,,,,,,,,,192
+AI Assistant,AI Assistant,bg-remover-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,
+AI Assistant,AI Assistant,brand-ai-assistant-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,
+Brand Kit,Brand Kit,brand-generative-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,
+Brand Kit,Brand Kit,brand-ingestion-service,brand-ai-ns,,,,,,,,,,,,,,,,,,,,
+Brand Kit,Brand Kit,brand-kit-grpc,brand-ai-ns,,,,,,,,,,,,,,,,,,,,
+Brand Kit,Brand Kit,brand-kits,brand-ai-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-shadow-warmer,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-shadow-warmer-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-shadow-warmer-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-shadow-warmer-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-shadow-warmer-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-shadow-warmer-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,assets-delivery-api-shadow-warmer-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-dj-v3-2-single,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-dj-v3-2-single-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-dj-v3-2-single-airbnb01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-dj-v3-2-single-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-dj-v3-2-single-lego01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-dj-v3-2-single-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-dj-v3-2-single-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v3-2-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v3-2-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v3-2-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v3-2-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v3-2-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v3-2-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cdn-purge-aggregator-v4,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cdn-purge-batcher-v4,cda-ns,,,,,,,,,,,,,,,,,,,,73
+CMS,Content Delivery,cdn-purge-batcher-v4-cf,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cdn-purge-dispatcher-v4,cda-ns,,,,,,,,,,,,,,,,,,,,182
+CMS,Content Delivery,cdn-purge-dispatcher-v4-cf,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-published-contents,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api,cda-ns,,,,,,,,,,,,,,,,,,,85.82,1240
+CMS,Content Delivery,content-delivery-api-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-shadow-warmer,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-shadow-warmer-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-shadow-warmer-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-shadow-warmer-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-shadow-warmer-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-shadow-warmer-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-api-shadow-warmer-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v2,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v2-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v2-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v2-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v2-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v2-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-v2-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-shadow-warmer,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-shadow-warmer-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-shadow-warmer-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-shadow-warmer-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-shadow-warmer-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-shadow-warmer-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,graphql-delivery-api-shadow-warmer-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,jobs-distributor-dj,cda-ns,,,,,,,,,,,,,,,,,,,95.67,253
+CMS,Content Delivery,content-delivery-jobs-distributor-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-long-running-job,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-long-running-job-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-long-running-job-airbnb01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-long-running-job-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-long-running-job-lego01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-long-running-job-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-long-running-job-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cdn-purge-dj,cda-ns,,,,,,,,,,,,,,,,,,,89.96,44
+CMS,Content Delivery,cdn-purge-dj-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,189
+CMS,Content Delivery,content-delivery-dj,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-accelerate01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-airbnb,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-asics01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-lego,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-scale01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,content-delivery-dj-start01,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,publish-api-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Delivery,cda-jobs-scheduler-v3-2,cda-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-api,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-api-lego,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-cdn,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-cdn-lego,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Venus,cma-venus,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-api-airbnb,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-uploads,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Assets,cma-assets-service,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Venus,cma-venus-bradsdeals,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,contentstack-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,content-branching-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Venus,cma-venus-lego,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-api-lightrun,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-api-mtr,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-api-retailer,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,release,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,publish,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,bulk-action,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cda-action,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,fieldlocalisation,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,globalfields,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,languages-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-cdn-shadow-warmer,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-branches,cma-ns,,,,,,,,,,,,,,,,,,,58.77,149
+CMS,Content Management,cma-branches-api,cma-ns,,,,,,,,,,,,,,,,,,,58.77,149
+CMS,Content Management,cma-branches-dj,cma-ns,,,,,,,,,,,,,,,,,,,58.77,149
+CMS,Content Management,cma-entries-dj,cma-ns,,,,,,,,,,,,,,,,,,,84.06,2039
+CMS,Content Management,cma-entries-service,cma-ns,,,,,,,,,,,,,,,,,,,84.06,2039
+CMS,Content Management,cma-entries-api,cma-ns,,,,,,,,,,,,,,,,,,,84.06,2039
+CMS,Content Management,cma-validation-service,cma-ns,,,,,,,,,,,,,,,,,,,84.06,2039
+CMS,Content Management,jobs-distributor,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-publish-objects-consumer,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-publish-objects-consumer-v2,cma-ns,,,,,,,,,,,,,,,,,,,92.37,61
+CMS,Content Management,cma-commenting,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-commenting-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-environments-service,cma-ns,,,,,,,,,,,,,,,,,,,92.28,52
+CMS,Content Management,cma-locales-service,cma-ns,,,,,,,,,,,,,,,,,,,97.33,64
+CMS,Content Management,cma-metadata-service,cma-ns,,,,,,,,,,,,,,,,,,,96.77,48
+CMS,Content Management,cma-taxonomy,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-taxonomy-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-taxonomy-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-variants,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-variants-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-variants-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-workflow-publishingrules-api,cma-ns,,,,,,,,,,,,,,,,,,,83.1,446
+CMS,Content Management,cma-workflow-publishingrules,cma-ns,,,,,,,,,,,,,,,,,,,83.1,446
+CMS,Content Management,cma-release-api,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-release-grpc,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-job-distributor,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,job-status-api,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-bulk-action-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,bulk-actions-api,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,bulk-actions-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-elastic-sync,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-mailservice,cma-ns,,,,,,,,,,,,,,,,,,,92.81,23
+CMS,Content Management,cma-global-fields,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-global-fields-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-global-fields-shadow,cma-ns,,,,,,,,,,,,,,,,,,,,
+CMS,Content Management,cma-global-fields-shadow-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
+Launch,Launch,contentfly-logs-background-exporter-service,contentfly,,,,,,,,,,,,,,,,,,,42.8,71
+Launch,Launch,contentfly-logs-background-jobs-service,contentfly,,,,,,,,,,,,,,,,,,,,48
+Launch,Launch,contentfly-logs-service,contentfly,,,,,,,,,,,,,,,,,,,,213
+Launch,Launch,contentfly-management-background-jobs-service,contentfly,,,,,,,,,,,,,,,,,,,,676
+Launch,Launch,contentfly-management-service,contentfly,,,,,,,,,,,,,,,,,,,,1545
+Launch,Launch,contentfly-nginx-service,contentfly,,,,,,,,,,,,,,,,,,,,110
+Launch,Launch,contentfly-telemetry-service,contentfly,,,,,,,,,,,,,,,,,,,36.8,91
+Platform,Growth,1-click-trial,contentstack,,,,,,,,,,,,,,,,,,,,232
+CMS,Content Delivery,graphql,contentstack,,,,,,,,,,,,,,,,,,,,
+Marketplace,Developer Hub,developerhub-api,developerhub-ns,,,,,,,,,,,,,,,,,,,69.18,1168
+Marketplace,Developer Hub,developerhub-bg-worker,developerhub-ns,,,,,,,,,,,,,,,,,,,69.17,1168
+Marketplace,Marketplace,marketplace-proxy-service,developerhub-ns,,,,,,,,,,,,,,,,,,,63.2,317
+Marketplace,Marketplace,extensions-api,extensions-ns,,,,,,,,,,,,,,,,,,,,
+Platform,Growth,compass-starter,growth-ns,,,,,,,,,,,,,,,,,,,,419
+Creative Experience,Visual Preview,graphql-preview-api,livepreview-ns,,,,,,,,,,,,,,,,,,,,573
+Creative Experience,Visual Preview,rest-preview-api,livepreview-ns,,,,,,,,,,,,,,,,,,,,1057
+Platform,Data Engineering,logs-service,logs-ns,,,,,,,,,,,,,,,,,,,55.3,86
+Platform,Data Engineering,logs-consumer,logs-ns,,,,,,,,,,,,,,,,,,,82.8,60
+Platform,Data Engineering,prod-logs-consumer-cda,logs-ns,,,,,,,,,,,,,,,,,,,82.8,60
+Platform,Data Engineering,prod-logs-consumer-webhook,logs-ns,,,,,,,,,,,,,,,,,,,82.8,60
+Platform,Data Engineering,notification-service-api,notification-service-ns,,,,,,,,,,,,,,,,,,,,
+Platform,Data Engineering,notification-service-api-grpc,notification-service-ns,,,,,,,,,,,,,,,,,,,,
+Platform,Org Admin,org-admin-api,org-admin-ns,,,,,,,,,,,,,,,,,,,,277
+Data & Insights,Personalize,personalization-background-jobs-service,personalization-ns,,,,,,,,,,,,,,,,,,,95.05,1439
+Data & Insights,Personalize,personalization-event-ingestion-service,personalization-ns,,,,,,,,,,,,,,,,,,,96,35
+Data & Insights,Personalize,personalization-insights-service,personalization-ns,,,,,,,,,,,,,,,,,,,74,23
+Data & Insights,Personalize,personalization-service,personalization-ns,,,,,,,,,,,,,,,,,,,95.04,1436
+Data & Insights,Personalize,personalize-edge-backend-service-api,personalization-ns,,,,,,,,,,,,,,,,,,,,90
+Data & Insights,Personalize,personalize-edge-backend-service-consumer,personalization-ns,,,,,,,,,,,,,,,,,,,,90
+CMS,Reignite Search,cma-search-export-api,search-ns,,,,,,,,,,,,,,,,,,,95.8,449
+CMS,Reignite Search,cma-search-bulk-export-job,search-ns,,,,,,,,,,,,,,,,,,,95.8,449
+CMS,Reignite Search,cma-search-export-merge-dj,search-ns,,,,,,,,,,,,,,,,,,,95.8,449
+CMS,Reignite Search,cma-search-export-orchestrator,search-ns,,,,,,,,,,,,,,,,,,,95.8,449
+CMS,Reignite Search,cma-search-grpc,search-ns,,,,,,,,,,,,,,,,,,,94.93,1681
+CMS,Reignite Search,cma-search-service,search-ns,,,,,,,,,,,,,,,,,,,94.93,1681
+CMS,Reignite Search,cma-search-sync-delayed,search-ns,,,,,,,,,,,,,,,,,,,94.93,1681
+CMS,Reignite Search,cma-search-sync-job,search-ns,,,,,,,,,,,,,,,,,,,94.93,1681
+CMS,Reignite Search,elastic-search-task-status-checker,search-ns,,,,,,,,,,,,,,,,,,,94.93,1681
+AI Platform,AI Assistant,ocr-and-palette-service,smart-asset-management-ns,,,,,,,,,,,,,,,,,,,,
+AI Platform,AI Assistant,photobooth-service,smart-asset-management-ns,,,,,,,,,,,,,,,,,,,,
+Platform,Superadmin,superadmin-rewrite,superadmin-rewrite,,,,,,,,,,,,,,,,,,,91.15,1626
+CMS,Reignite Search,view-management-service,view-ns,,,,,,,,,,,,,,,,,,,91.57,324
+Platform,Data Engineering,webhook-dj-cda-trigger,webhook-ns,,,,,,,,,,,,,,,,,,,92.06,150
+Platform,Data Engineering,webhook-notifier,webhook-ns,,,,,,,,,,,,,,,,,,,93.13,29
+Platform,Data Engineering,webhook-executor,webhook-ns,,,,,,,,,,,,,,,,,,,91.84,143
+Platform,Data Engineering,webhook-retry,webhook-ns,,,,,,,,,,,,,,,,,,,91.84,143
+Platform,Data Engineering,webhook-trigger,webhook-ns,,,,,,,,,,,,,,,,,,,91.84,143
+Platform,Data Engineering,webhook-api-rewrite,webhook-ns,,,,,,,,,,,,,,,,,,,94.8,244
+Marketplace,Developer Hub,central-developerhub-service,developerhub-ns,,,,,,,,,,,,,,,,,,,,
+DAM,Asset Managements 2.0,dam-core,dam-ns,,,,,,,,,,,,,,,,,,,,
+DAM,Asset Managements 2.0,dam-dj,dam-ns,,,,,,,,,,,,,,,,,,,,
+DAM,Asset Managements 2.0,dam-grpc,dam-ns,,,,,,,,,,,,,,,,,,,,
+DAM,Asset Managements 2.0,assets-delivery-api-dam,cda-ns,,,,,,,,,,,,,,,,,,,,
+DAM,Asset Managements 2.0,cma-assets-api,cma-ns,,,,,,,,,,,,,,,,,,,,
+DAM,Asset Managements 2.0,cma-assets-dj,cma-ns,,,,,,,,,,,,,,,,,,,,
